@@ -1,32 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Services on Yashraj Exim Academy</title>
-    <link>http://localhost:1313/services/</link>
-    <description>Recent content in Services on Yashraj Exim Academy</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Export Import Courses</title>
-      <link>http://localhost:1313/services/export-import-course-offline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/export-import-course-offline/</guid>
-      <description>&lt;h2 id=&#34;professional-export-import-training&#34;&gt;Professional Export Import Training&lt;/h2&gt;&#xA;&lt;p&gt;Our comprehensive training programs are designed to equip professionals with the knowledge and skills needed to succeed in international trade.&lt;/p&gt;&#xA;&lt;h3 id=&#34;course-offerings&#34;&gt;Course Offerings&lt;/h3&gt;&#xA;&lt;h4 id=&#34;basic-export-import-course&#34;&gt;Basic Export Import Course&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fundamentals of international trade&lt;/li&gt;&#xA;&lt;li&gt;Documentation requirements&lt;/li&gt;&#xA;&lt;li&gt;Customs procedures&lt;/li&gt;&#xA;&lt;li&gt;Incoterms and shipping&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;advanced-export-import-course&#34;&gt;Advanced Export Import Course&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Complex trade scenarios&lt;/li&gt;&#xA;&lt;li&gt;Risk management&lt;/li&gt;&#xA;&lt;li&gt;Market analysis&lt;/li&gt;&#xA;&lt;li&gt;Strategic planning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;specialized-training&#34;&gt;Specialized Training&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sector-specific knowledge&lt;/li&gt;&#xA;&lt;li&gt;Regulatory compliance&lt;/li&gt;&#xA;&lt;li&gt;Technology integration&lt;/li&gt;&#xA;&lt;li&gt;Best practices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why-choose-our-courses&#34;&gt;Why Choose Our Courses?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Industry Expertise&lt;/strong&gt;: Learn from professionals with decades of experience&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Practical Approach&lt;/strong&gt;: Real-world scenarios and hands-on training&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexible Learning&lt;/strong&gt;: Online and offline options available&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ongoing Support&lt;/strong&gt;: Post-training consultation and guidance&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certification&lt;/strong&gt;: Recognized certificates for career advancement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our courses are designed to provide you with the practical knowledge and skills needed to excel in the competitive world of international trade.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Export Import Courses</title>
-      <link>http://localhost:1313/services/export-import-course-online/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/export-import-course-online/</guid>
-      <description>&lt;h2 id=&#34;professional-export-import-training&#34;&gt;Professional Export Import Training&lt;/h2&gt;&#xA;&lt;p&gt;Our comprehensive training programs are designed to equip professionals with the knowledge and skills needed to succeed in international trade.&lt;/p&gt;&#xA;&lt;h3 id=&#34;course-offerings&#34;&gt;Course Offerings&lt;/h3&gt;&#xA;&lt;h4 id=&#34;basic-export-import-course&#34;&gt;Basic Export Import Course&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fundamentals of international trade&lt;/li&gt;&#xA;&lt;li&gt;Documentation requirements&lt;/li&gt;&#xA;&lt;li&gt;Customs procedures&lt;/li&gt;&#xA;&lt;li&gt;Incoterms and shipping&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;advanced-export-import-course&#34;&gt;Advanced Export Import Course&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Complex trade scenarios&lt;/li&gt;&#xA;&lt;li&gt;Risk management&lt;/li&gt;&#xA;&lt;li&gt;Market analysis&lt;/li&gt;&#xA;&lt;li&gt;Strategic planning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;specialized-training&#34;&gt;Specialized Training&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sector-specific knowledge&lt;/li&gt;&#xA;&lt;li&gt;Regulatory compliance&lt;/li&gt;&#xA;&lt;li&gt;Technology integration&lt;/li&gt;&#xA;&lt;li&gt;Best practices&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;why-choose-our-courses&#34;&gt;Why Choose Our Courses?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Industry Expertise&lt;/strong&gt;: Learn from professionals with decades of experience&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Practical Approach&lt;/strong&gt;: Real-world scenarios and hands-on training&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Flexible Learning&lt;/strong&gt;: Online and offline options available&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ongoing Support&lt;/strong&gt;: Post-training consultation and guidance&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Certification&lt;/strong&gt;: Recognized certificates for career advancement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our courses are designed to provide you with the practical knowledge and skills needed to excel in the competitive world of international trade.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lightning-Fast Performance</title>
-      <link>http://localhost:1313/services/export-import-consultation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/services/export-import-consultation/</guid>
-      <description>&lt;h2 id=&#34;built-for-speed&#34;&gt;Built for Speed&lt;/h2&gt;&#xA;&lt;p&gt;Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;performance-metrics&#34;&gt;Performance Metrics&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Build Time&lt;/strong&gt;: Less than 1 second for most sites&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Page Load Time&lt;/strong&gt;: Under 500ms first contentful paint&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Time to Interactive&lt;/strong&gt;: Under 1.5 seconds&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Lighthouse Score&lt;/strong&gt;: 95+ on all metrics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;optimization-features&#34;&gt;Optimization Features&lt;/h3&gt;&#xA;&lt;h4 id=&#34;asset-optimization&#34;&gt;Asset Optimization&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automatic image optimization and WebP conversion&lt;/li&gt;&#xA;&lt;li&gt;CSS minification and purging of unused styles&lt;/li&gt;&#xA;&lt;li&gt;JavaScript bundling and tree-shaking&lt;/li&gt;&#xA;&lt;li&gt;Lazy loading of images and components&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;caching-strategy&#34;&gt;Caching Strategy&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Efficient browser caching with proper headers&lt;/li&gt;&#xA;&lt;li&gt;Static asset fingerprinting&lt;/li&gt;&#xA;&lt;li&gt;Pre-rendered HTML for instant loads&lt;/li&gt;&#xA;&lt;li&gt;Service worker for offline capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;cdn-integration&#34;&gt;CDN Integration&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built for global distribution&lt;/li&gt;&#xA;&lt;li&gt;Edge caching ready&lt;/li&gt;&#xA;&lt;li&gt;Automatic cache invalidation&lt;/li&gt;&#xA;&lt;li&gt;Geographic redundancy&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Yashraj Exim Academy</title><link>https://numerative.github.io/services/</link><description>Recent content in Services on Yashraj Exim Academy</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://numerative.github.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Export Import Courses</title><link>https://numerative.github.io/services/export-import-course-offline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-course-offline/</guid><description>&lt;h2 id="professional-export-import-training">Professional Export Import Training&lt;/h2>
+&lt;p>Our comprehensive training programs are designed to equip professionals with the knowledge and skills needed to succeed in international trade.&lt;/p>
+&lt;h3 id="course-offerings">Course Offerings&lt;/h3>
+&lt;h4 id="basic-export-import-course">Basic Export Import Course&lt;/h4>
+&lt;ul>
+&lt;li>Fundamentals of international trade&lt;/li>
+&lt;li>Documentation requirements&lt;/li>
+&lt;li>Customs procedures&lt;/li>
+&lt;li>Incoterms and shipping&lt;/li>
+&lt;/ul>
+&lt;h4 id="advanced-export-import-course">Advanced Export Import Course&lt;/h4>
+&lt;ul>
+&lt;li>Complex trade scenarios&lt;/li>
+&lt;li>Risk management&lt;/li>
+&lt;li>Market analysis&lt;/li>
+&lt;li>Strategic planning&lt;/li>
+&lt;/ul>
+&lt;h4 id="specialized-training">Specialized Training&lt;/h4>
+&lt;ul>
+&lt;li>Sector-specific knowledge&lt;/li>
+&lt;li>Regulatory compliance&lt;/li>
+&lt;li>Technology integration&lt;/li>
+&lt;li>Best practices&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-choose-our-courses">Why Choose Our Courses?&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Industry Expertise&lt;/strong>: Learn from professionals with decades of experience&lt;/li>
+&lt;li>&lt;strong>Practical Approach&lt;/strong>: Real-world scenarios and hands-on training&lt;/li>
+&lt;li>&lt;strong>Flexible Learning&lt;/strong>: Online and offline options available&lt;/li>
+&lt;li>&lt;strong>Ongoing Support&lt;/strong>: Post-training consultation and guidance&lt;/li>
+&lt;li>&lt;strong>Certification&lt;/strong>: Recognized certificates for career advancement&lt;/li>
+&lt;/ul>
+&lt;p>Our courses are designed to provide you with the practical knowledge and skills needed to excel in the competitive world of international trade.&lt;/p></description></item><item><title>Export Import Courses</title><link>https://numerative.github.io/services/export-import-course-online/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-course-online/</guid><description>&lt;h2 id="professional-export-import-training">Professional Export Import Training&lt;/h2>
+&lt;p>Our comprehensive training programs are designed to equip professionals with the knowledge and skills needed to succeed in international trade.&lt;/p>
+&lt;h3 id="course-offerings">Course Offerings&lt;/h3>
+&lt;h4 id="basic-export-import-course">Basic Export Import Course&lt;/h4>
+&lt;ul>
+&lt;li>Fundamentals of international trade&lt;/li>
+&lt;li>Documentation requirements&lt;/li>
+&lt;li>Customs procedures&lt;/li>
+&lt;li>Incoterms and shipping&lt;/li>
+&lt;/ul>
+&lt;h4 id="advanced-export-import-course">Advanced Export Import Course&lt;/h4>
+&lt;ul>
+&lt;li>Complex trade scenarios&lt;/li>
+&lt;li>Risk management&lt;/li>
+&lt;li>Market analysis&lt;/li>
+&lt;li>Strategic planning&lt;/li>
+&lt;/ul>
+&lt;h4 id="specialized-training">Specialized Training&lt;/h4>
+&lt;ul>
+&lt;li>Sector-specific knowledge&lt;/li>
+&lt;li>Regulatory compliance&lt;/li>
+&lt;li>Technology integration&lt;/li>
+&lt;li>Best practices&lt;/li>
+&lt;/ul>
+&lt;h3 id="why-choose-our-courses">Why Choose Our Courses?&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Industry Expertise&lt;/strong>: Learn from professionals with decades of experience&lt;/li>
+&lt;li>&lt;strong>Practical Approach&lt;/strong>: Real-world scenarios and hands-on training&lt;/li>
+&lt;li>&lt;strong>Flexible Learning&lt;/strong>: Online and offline options available&lt;/li>
+&lt;li>&lt;strong>Ongoing Support&lt;/strong>: Post-training consultation and guidance&lt;/li>
+&lt;li>&lt;strong>Certification&lt;/strong>: Recognized certificates for career advancement&lt;/li>
+&lt;/ul>
+&lt;p>Our courses are designed to provide you with the practical knowledge and skills needed to excel in the competitive world of international trade.&lt;/p></description></item><item><title>Lightning-Fast Performance</title><link>https://numerative.github.io/services/export-import-consultation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-consultation/</guid><description>&lt;h2 id="built-for-speed">Built for Speed&lt;/h2>
+&lt;p>Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p>
+&lt;h3 id="performance-metrics">Performance Metrics&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Build Time&lt;/strong>: Less than 1 second for most sites&lt;/li>
+&lt;li>&lt;strong>Page Load Time&lt;/strong>: Under 500ms first contentful paint&lt;/li>
+&lt;li>&lt;strong>Time to Interactive&lt;/strong>: Under 1.5 seconds&lt;/li>
+&lt;li>&lt;strong>Google Lighthouse Score&lt;/strong>: 95+ on all metrics&lt;/li>
+&lt;/ul>
+&lt;h3 id="optimization-features">Optimization Features&lt;/h3>
+&lt;h4 id="asset-optimization">Asset Optimization&lt;/h4>
+&lt;ul>
+&lt;li>Automatic image optimization and WebP conversion&lt;/li>
+&lt;li>CSS minification and purging of unused styles&lt;/li>
+&lt;li>JavaScript bundling and tree-shaking&lt;/li>
+&lt;li>Lazy loading of images and components&lt;/li>
+&lt;/ul>
+&lt;h4 id="caching-strategy">Caching Strategy&lt;/h4>
+&lt;ul>
+&lt;li>Efficient browser caching with proper headers&lt;/li>
+&lt;li>Static asset fingerprinting&lt;/li>
+&lt;li>Pre-rendered HTML for instant loads&lt;/li>
+&lt;li>Service worker for offline capabilities&lt;/li>
+&lt;/ul>
+&lt;h4 id="cdn-integration">CDN Integration&lt;/h4>
+&lt;ul>
+&lt;li>Built for global distribution&lt;/li>
+&lt;li>Edge caching ready&lt;/li>
+&lt;li>Automatic cache invalidation&lt;/li>
+&lt;li>Geographic redundancy&lt;/li>
+&lt;/ul>
+&lt;p>Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p></description></item></channel></rss>
