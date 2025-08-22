@@ -1,84 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Yashraj Exim Academy</title><link>https://numerative.github.io/services/</link><description>Recent content in Services on Yashraj Exim Academy</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://numerative.github.io/services/index.xml" rel="self" type="application/rss+xml"/><item><title>Export Import Courses</title><link>https://numerative.github.io/services/export-import-course-offline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-course-offline/</guid><description>&lt;h2 id="professional-export-import-training">Professional Export Import Training&lt;/h2>
-&lt;p>Our comprehensive training programs are designed to equip professionals with the knowledge and skills needed to succeed in international trade.&lt;/p>
-&lt;h3 id="course-offerings">Course Offerings&lt;/h3>
-&lt;h4 id="basic-export-import-course">Basic Export Import Course&lt;/h4>
-&lt;ul>
-&lt;li>Fundamentals of international trade&lt;/li>
-&lt;li>Documentation requirements&lt;/li>
-&lt;li>Customs procedures&lt;/li>
-&lt;li>Incoterms and shipping&lt;/li>
-&lt;/ul>
-&lt;h4 id="advanced-export-import-course">Advanced Export Import Course&lt;/h4>
-&lt;ul>
-&lt;li>Complex trade scenarios&lt;/li>
-&lt;li>Risk management&lt;/li>
-&lt;li>Market analysis&lt;/li>
-&lt;li>Strategic planning&lt;/li>
-&lt;/ul>
-&lt;h4 id="specialized-training">Specialized Training&lt;/h4>
-&lt;ul>
-&lt;li>Sector-specific knowledge&lt;/li>
-&lt;li>Regulatory compliance&lt;/li>
-&lt;li>Technology integration&lt;/li>
-&lt;li>Best practices&lt;/li>
-&lt;/ul>
-&lt;h3 id="why-choose-our-courses">Why Choose Our Courses?&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Industry Expertise&lt;/strong>: Learn from professionals with decades of experience&lt;/li>
-&lt;li>&lt;strong>Practical Approach&lt;/strong>: Real-world scenarios and hands-on training&lt;/li>
-&lt;li>&lt;strong>Flexible Learning&lt;/strong>: Online and offline options available&lt;/li>
-&lt;li>&lt;strong>Ongoing Support&lt;/strong>: Post-training consultation and guidance&lt;/li>
-&lt;li>&lt;strong>Certification&lt;/strong>: Recognized certificates for career advancement&lt;/li>
-&lt;/ul>
-&lt;p>Our courses are designed to provide you with the practical knowledge and skills needed to excel in the competitive world of international trade.&lt;/p></description></item><item><title>Export Import Training</title><link>https://numerative.github.io/services/export-import-course-online/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-course-online/</guid><description>&lt;section class="py-16 bg-white">
- &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
- 
- &lt;div class="text-center">
- &lt;h2 class="text-3xl font-bold text-gray-900">Complete Export-Import Training Program&lt;/h2>
- 
- &lt;p class="mt-4 text-xl text-gray-600">Master international trade with our comprehensive 12-module curriculum designed for practical success.&lt;/p>
- 
- &lt;/div>
- 
- 
- &lt;div class="mt-16">
- &lt;div class="grid grid-cols-1 md:grid-cols-2 gap-8">
- 
- &lt;div class="w-full">
- &lt;div class="h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative">
- 
- &lt;div class="p-8 flex flex-col flex-grow">
- &lt;div class="mb-2">
- &lt;h3 class="text-2xl font-bold text-gray-900">Module 1: Foundations of Global Trade&lt;/h3>
- &lt;p class="mt-2 text-gray-500">🔰 Build your foundation in international trade with comprehensive understanding of global trade systems, India&amp;#39;s export potential, and key regulatory frameworks.&lt;/p></description></item><item><title>Lightning-Fast Performance</title><link>https://numerative.github.io/services/export-import-consultation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://numerative.github.io/services/export-import-consultation/</guid><description>&lt;h2 id="built-for-speed">Built for Speed&lt;/h2>
-&lt;p>Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&lt;/p>
-&lt;h3 id="performance-metrics">Performance Metrics&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Build Time&lt;/strong>: Less than 1 second for most sites&lt;/li>
-&lt;li>&lt;strong>Page Load Time&lt;/strong>: Under 500ms first contentful paint&lt;/li>
-&lt;li>&lt;strong>Time to Interactive&lt;/strong>: Under 1.5 seconds&lt;/li>
-&lt;li>&lt;strong>Google Lighthouse Score&lt;/strong>: 95+ on all metrics&lt;/li>
-&lt;/ul>
-&lt;h3 id="optimization-features">Optimization Features&lt;/h3>
-&lt;h4 id="asset-optimization">Asset Optimization&lt;/h4>
-&lt;ul>
-&lt;li>Automatic image optimization and WebP conversion&lt;/li>
-&lt;li>CSS minification and purging of unused styles&lt;/li>
-&lt;li>JavaScript bundling and tree-shaking&lt;/li>
-&lt;li>Lazy loading of images and components&lt;/li>
-&lt;/ul>
-&lt;h4 id="caching-strategy">Caching Strategy&lt;/h4>
-&lt;ul>
-&lt;li>Efficient browser caching with proper headers&lt;/li>
-&lt;li>Static asset fingerprinting&lt;/li>
-&lt;li>Pre-rendered HTML for instant loads&lt;/li>
-&lt;li>Service worker for offline capabilities&lt;/li>
-&lt;/ul>
-&lt;h4 id="cdn-integration">CDN Integration&lt;/h4>
-&lt;ul>
-&lt;li>Built for global distribution&lt;/li>
-&lt;li>Edge caching ready&lt;/li>
-&lt;li>Automatic cache invalidation&lt;/li>
-&lt;li>Geographic redundancy&lt;/li>
-&lt;/ul>
-&lt;p>Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Yashraj Exim Academy</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on Yashraj Exim Academy</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Export Import Training</title>
+      <link>http://localhost:1313/services/export-import-course-offline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/export-import-course-offline/</guid>
+      <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Complete Export-Import Training Program&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;Master international trade with our comprehensive 12-module curriculum designed for practical success.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-2 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-2&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Module 1: Foundations of Global Trade&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;🔰 Build your foundation in international trade with comprehensive understanding of global trade systems, India&amp;#39;s export potential, and key regulatory frameworks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Export Import Training</title>
+      <link>http://localhost:1313/services/export-import-course-online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/export-import-course-online/</guid>
+      <description>&lt;section class=&#34;py-16 bg-white&#34;&gt;&#xA;    &lt;div class=&#34;max-w-6xl mx-auto px-4 sm:px-6 lg:px-8&#34;&gt;&#xA;        &#xA;        &lt;div class=&#34;text-center&#34;&gt;&#xA;            &lt;h2 class=&#34;text-3xl font-bold text-gray-900&#34;&gt;Complete Export-Import Training Program&lt;/h2&gt;&#xA;            &#xA;            &lt;p class=&#34;mt-4 text-xl text-gray-600&#34;&gt;Master international trade with our comprehensive 12-module curriculum designed for practical success.&lt;/p&gt;&#xA;            &#xA;        &lt;/div&gt;&#xA;        &#xA;        &#xA;        &lt;div class=&#34;mt-16&#34;&gt;&#xA;            &lt;div class=&#34;grid grid-cols-1 md:grid-cols-2 gap-8&#34;&gt;&#xA;                &#xA;                &lt;div class=&#34;w-full&#34;&gt;&#xA;                    &lt;div class=&#34;h-full flex flex-col rounded-2xl border border-gray-200 bg-white shadow-sm hover:shadow-lg transition-shadow duration-300 relative&#34;&gt;&#xA;                        &#xA;                        &lt;div class=&#34;p-8 flex flex-col flex-grow&#34;&gt;&#xA;                            &lt;div class=&#34;mb-2&#34;&gt;&#xA;                                &lt;h3 class=&#34;text-2xl font-bold text-gray-900&#34;&gt;Module 1: Foundations of Global Trade&lt;/h3&gt;&#xA;                                &lt;p class=&#34;mt-2 text-gray-500&#34;&gt;🔰 Build your foundation in international trade with comprehensive understanding of global trade systems, India&amp;#39;s export potential, and key regulatory frameworks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Export-Import Business Consultation</title>
+      <link>http://localhost:1313/services/export-import-consultation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/export-import-consultation/</guid>
+      <description>&lt;h2 id=&#34;tailored-business-solutions&#34;&gt;Tailored Business Solutions&lt;/h2&gt;&#xA;&lt;p&gt;Our consultation services are designed specifically for entrepreneurs, manufacturers, and traders looking to expand into international markets. With 16+ years of hands-on experience in export-import operations, we provide actionable insights and strategies that deliver measurable results.&lt;/p&gt;&#xA;&lt;h3 id=&#34;consultation-packages&#34;&gt;Consultation Packages&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Startup Package&lt;/strong&gt;: Complete business setup and launch strategy&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Growth Package&lt;/strong&gt;: Market expansion and buyer acquisition&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Optimization Package&lt;/strong&gt;: Process improvement and cost reduction&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Crisis Management&lt;/strong&gt;: Problem-solving and dispute resolution&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;our-consultation-process&#34;&gt;Our Consultation Process&lt;/h3&gt;&#xA;&lt;h4 id=&#34;initial-assessment&#34;&gt;Initial Assessment&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Comprehensive business analysis and SWOT evaluation&lt;/li&gt;&#xA;&lt;li&gt;Product portfolio review and market potential assessment&lt;/li&gt;&#xA;&lt;li&gt;Current process audit and gap identification&lt;/li&gt;&#xA;&lt;li&gt;Customized action plan development&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;strategy-development&#34;&gt;Strategy Development&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Market entry roadmap with timeline and milestones&lt;/li&gt;&#xA;&lt;li&gt;Buyer identification and outreach strategies&lt;/li&gt;&#xA;&lt;li&gt;Pricing and costing optimization models&lt;/li&gt;&#xA;&lt;li&gt;Risk assessment and mitigation plans&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;implementation-support&#34;&gt;Implementation Support&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Step-by-step execution guidance&lt;/li&gt;&#xA;&lt;li&gt;Document preparation and review&lt;/li&gt;&#xA;&lt;li&gt;Buyer negotiation support&lt;/li&gt;&#xA;&lt;li&gt;Ongoing troubleshooting and adjustments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Our consultation approach combines theoretical knowledge with practical experience, ensuring you receive strategies that work in real-world scenarios and deliver sustainable business growth.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
